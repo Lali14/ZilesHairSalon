@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zile's Hair Installation and Treatment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #f8b400;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        .services, .contact {
+            margin-top: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .contact a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Zile's Hair Installation and Treatment
+    </header><section>
+    <h2>Welcome to Zile's Hair Installation and Treatment</h2>
+    <p>Established in 2024, we provide top-notch hair installation and treatment services.</p>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Wig Wash - R100</li>
+        <li>Installation - R150</li>
+        <li>Wig Revamp - R200</li>
+        <li>Wig Wash & Treatment - R150</li>
+        <li>House Call - R200</li>
+        <li>Plucking Lace Front - R50</li>
+        <li>Frontal Ponytail - R400 (with your own Fibre)</li>
+        <li>Wig Customisation - R140</li>
+    </ul>
+</section>
+
+<section class="contact">
+    <h2>Book an Appointment</h2>
+    <p>Call us at: <a href="tel:+27679554571">+27 67 955 4571</a></p>
+</section>
+
+</body>
+</html>
